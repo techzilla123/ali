@@ -1,0 +1,258 @@
+.page-wrap{
+  width: 80rem;
+height: 329.5rem;
+
+
+}
+.hwww{
+  margin-left: 0px;
+  width: 94.9rem;
+height: 49rem;
+flex-shrink: 0;
+}
+.hww{
+  margin-top: -760px;
+
+}
+.logo{
+  color: #FFF;
+text-align: center;
+font-family: Cabin;
+font-size: 1.9375rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-left: -800px;
+}
+.we{
+  color: #FFF;
+text-align: center;
+font-family: Poppins;
+font-size: 0.65rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+background: none;
+margin-top: -50px;
+
+}
+.log1{
+cursor: pointer;
+}
+.log2{
+  margin-left: 230px;
+  margin-top: -47px;
+  cursor: pointer;
+}
+.log3{
+  cursor: pointer;
+  margin-left: 460px;
+  margin-top: -47px;
+}
+.log4{
+  background: #23071f;
+  cursor: pointer;
+  margin-left: 670px;
+  margin-top: -45px;
+}
+.log6{
+margin-top: -33px;
+margin-left: 800px;
+}
+.ble{
+  margin-left: 200px;
+  margin-top: -286px;
+  cursor: pointer;
+}
+.gw{
+  margin-top: -38px;
+  margin-left: 200px;
+  font-family: Poppins;
+font-size: 0.95rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+cursor: pointer;
+}
+.hum{
+  width: 30.28069rem;
+height: 27.932rem;
+flex-shrink: 0;
+margin-left: -660px;
+margin-top: -150px;
+}
+.line1{
+  width: 24rem;
+height: 16.375rem;
+transform: rotate(-6.621deg);
+flex-shrink: 0;
+stroke-width: 7.632px;
+stroke: rgba(255, 255, 255, 0.70);
+}
+.xr{
+  margin-left: -700px;
+}
+.rs{
+  margin-left: 800px;
+  margin-top: -430px;
+}
+.hr1{
+color: #23071f;
+width: 9.25rem;
+height: 10.125rem;
+flex-shrink: 0;
+border-radius: 0.5rem;
+border: 3px solid #7748FF;
+background: #FFF;
+box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.25);
+margin-left: 500px;
+}
+.hr2{
+  color: #23071f;
+  width: 9.25rem;
+  height: 10.125rem;
+  flex-shrink: 0;
+  border-radius: 0.5rem;
+  border: 3px solid #7748FF;
+  background: #FFF;
+  box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 500px;
+  }
+  .hr3{
+    color: #23071f;
+    width: 9.25rem;
+    height: 10.125rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    border: 3px solid #7748FF;
+    background: #FFF;
+    box-shadow: 3px 7px 15px 0px rgba(0, 0, 0, 0.25);
+    margin-left: 500px;
+    }
+.ne{
+  margin-top: 400px;
+  
+}
+.sub {
+  height: 50px;
+  width: 50px;
+}
+.her{
+  color: #FFF;
+font-family: Cabin;
+font-size: 4rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.pot{
+  color: #FFF;
+font-family: Cabin;
+font-size: 1.125rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.buts{
+  width: 14.0625rem;
+height: 3.25rem;
+flex-shrink: 0;
+border-radius: 0.8125rem;
+background: linear-gradient(179deg, #A181FF 0.65%, rgba(135, 93, 255, 0.00) 313.85%);
+cursor: pointer;
+}
+.gets{
+  color: #FFF;
+font-family: Cabin;
+font-size: 1.5625rem;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.hum1{
+  margin-top: 50px;
+  margin-left: -480px;
+}
+.hum2{
+  margin-left: -400px;
+}
+.line2{
+  margin-top: -220px;
+  margin-left: -100px;
+}
+.rx{
+  margin-top: 20px;
+  gap: 40px;
+  margin-left: 200px;
+}
+.x1{
+  margin-left: 10px;
+}
+.x2{
+  margin-left: 120px;
+}
+.x3{
+  margin-left: 120px;
+}
+.xr2{
+  width: 2.75rem;
+height: 2.75rem;
+flex-shrink: 0;
+margin-top: -140px;
+margin-left: 209.67px;
+
+}
+.xr3{
+  width: 2.75rem;
+height: 2.75rem;
+flex-shrink: 0;
+margin-top: -40px;
+margin-left: 509px;
+}
+.xr4{
+  width: 2.75rem;
+height: 2.75rem;
+flex-shrink: 0;
+margin-top: -50px;
+margin-left: 809px;
+}
+.xh1{
+  color: #7041F5;
+font-family: Cabin;
+font-size: 1.5625rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 177px;
+
+}
+.xh11{
+  color: #7041F5;
+font-family: Poppins;
+font-size: 0.9375rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 130px;
+margin-left: -6px;
+}
+.xh12{
+  color: #7041F5;
+font-family: Cabin;
+font-size: 1.5625rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 210px;
+
+}
+.xh112{
+  color: #7041F5;
+font-family: Poppins;
+font-size: 0.9375rem;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+width: 130px;
+margin-left: -40px;
+}
