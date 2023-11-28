@@ -162,14 +162,17 @@ learning</h1>
   <div className='test15'><img className='test2' src={test5} alt=''/></div>
   <div className='test16'><img className='test2' src={test6} alt=''/></div>
         </div>
+         <footer className='foot'>
+        sdfghjk
+      </footer>
       
+    </div>
         </div>
     </div>
   </div>
-      </div>
-      </header><div>
-    
-    </div></div>
+      </header>
+      
+ </div>
   )
 }
 
