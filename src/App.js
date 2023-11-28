@@ -34,6 +34,7 @@ import test3 from "./Images/Ellipse 35.svg"
 import test4 from "./Images/Ellipse 32.svg"
 import test5 from "./Images/Ellipse 34.svg"
 import test6 from "./Images/Ellipse 36.svg"
+import test7 from "./Images/Vector 2.png"
 
 const App = () => {
   return (
@@ -163,7 +164,7 @@ learning</h1>
   <div className='test16'><img className='test2' src={test6} alt=''/></div>
         </div>
          <footer className='foot'>
-        sdfghjk
+        <img className="fst" src={test7} alt=''/>
       </footer>
       
     </div>

@@ -844,9 +844,15 @@ flex-shrink: 0;
 }
 .foot{
   width: 193vh;
-  height: 100vh;
-  background: #0B036B;
+  height: 110vh;
+  
   margin-bottom: 0px;
   display: hidden;
 
+}
+.fst{
+  margin-top: 150px ;
+  width: 94.9375rem;
+height: 46.5rem;
+flex-shrink: 0;
 }
