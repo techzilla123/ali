@@ -35,6 +35,7 @@ import test4 from "./Images/Ellipse 32.svg"
 import test5 from "./Images/Ellipse 34.svg"
 import test6 from "./Images/Ellipse 36.svg"
 import test7 from "./Images/Vector 2.png"
+import test8 from "./Images/Rectangle 1248.png"
 
 const App = () => {
   return (
@@ -165,6 +166,16 @@ learning</h1>
         </div>
          <footer className='foot'>
         <img className="fst" src={test7} alt=''/>
+        <div className='xc'>
+        <img src={test8} className='xcs' alt=''/>
+        <div className='imm'><h1 className='gets'>Get Started Now!
+        <p className='getp'>vel fringilla est ullamcorper eget nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra orci</p>
+        <div>
+          <input placeholder='Enter name' className='inp1'></input>
+          <div><input placeholder='Enter email' className='inp1'></input></div>
+          <button type='submit' className='subb' value="submit"><h1 className='sub1'>Submit</h1></button>
+          </div></h1></div>
+        </div>
       </footer>
       
     </div>
